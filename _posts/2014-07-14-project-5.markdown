@@ -2,8 +2,9 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
+img: NaVws2.png
 alt: image-alt
+game-url: https://unfolange.itch.io/altitude
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

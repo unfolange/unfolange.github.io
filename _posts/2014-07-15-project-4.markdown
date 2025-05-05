@@ -2,8 +2,9 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
+img: GYE7vW.png
 alt: image-alt
+game-url: https://unfolange.itch.io/prototype-2
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

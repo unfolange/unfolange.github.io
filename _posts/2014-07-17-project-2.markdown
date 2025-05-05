@@ -2,9 +2,11 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: egg.png
 alt: image-alt
+game-url: https://unfolange.itch.io/egg
 project-date: April 2014
+externalEmbed: <iframe height="167" frameborder="0" src="https://itch.io/embed/3515511" width="552"><a href="https://unfolange.itch.io/egg">Egg by unfolange</a></iframe>
 client: Start Bootstrap
 category: Web Development
 description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.

@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #c53f32;
 }
 
 h1,
@@ -64,7 +64,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #c53f32;
 }
 
 hr.star-primary {
@@ -83,9 +83,13 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
-}
-
+    background-image: url('../img/portfolio/banner.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+  }
+  
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
